@@ -1,4 +1,5 @@
 <!-- Put the Item.js and the ScrollReveal.js in the same folder -->
+<!--  install with : npm install scrollreveal --save-->
 import Item from **'Item.js path'**
 
 <Item
@@ -11,3 +12,6 @@ import Item from **'Item.js path'**
       >
       <!-- Include here anything you want in the item -->
 </Item>
+
+
+<!--  install with : npm install scrollreveal --save-->
