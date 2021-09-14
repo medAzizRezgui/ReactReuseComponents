@@ -1,0 +1,19 @@
+.drawer__container {
+    width: 100%;
+    background: red;
+
+}
+
+.drawer__backdrop {
+    background-color: rgba(0, 0, 0, 0.685) !important;
+}
+
+// The body of the menu
+.MuiPaper-root {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    animation: pop 0.2s ease;
+}
